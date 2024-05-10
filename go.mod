@@ -1,4 +1,4 @@
-module github.com/bradfitz/qemu-guest-kragent
+module github.com/damdo/qemu-guest-kragent
 
 go 1.19
 
